@@ -5,6 +5,10 @@
 #include<stdlib.h>
 
 int main(){
+    int x;
+    scanf("%d", &x);
+    printf("Multiplicacao por 2: %d \n", x << 1);
+    printf("Divisao  por 2: %d \n", x >> 1);
     system("pause");
-    return 0;
+    return 0; 
 }
