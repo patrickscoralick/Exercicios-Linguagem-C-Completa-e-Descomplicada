@@ -1,4 +1,4 @@
- /*1) Faça um programa que leia um número inteiro e retorne se antecessor e seu sucessor.*/
+/*1) Faça um programa que leia um número inteiro e retorne se antecessor e seu sucessor.*/
 
 #include<stdio.h>
 #include<stdlib.h>
