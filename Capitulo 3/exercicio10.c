@@ -1,4 +1,4 @@
- /*10) A importância de R$780.000,00 será dividida entre três ganhadores de um concurso, sendo
+/*10) A importância de R$780.000,00 será dividida entre três ganhadores de um concurso, sendo
  que:
  i. O primeiro ganhador receberá 46% do total.
  ii. O segundo receberá 32% do total.

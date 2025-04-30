@@ -1,4 +1,4 @@
- /*2) Faça um programa que leia um número real e imprima a quinta parte desse número.*/
+/*2) Faça um programa que leia um número real e imprima a quinta parte desse número.*/
 
 #include<stdio.h>
 #include<stdlib.h>
