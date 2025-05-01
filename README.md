@@ -242,6 +242,8 @@ Todos os exercícios foram retirados do livro 'Linguagem C Completa e Descomplic
   </tr>
 </table>
 
+_**!!!** Matematicamente a tabela do livro não está correta. As média Geométrica e Harmônica possuem erros na sua representação. No código irei seguir a forma matemática onde, Média Geométrica é a raiz cúbica da multiplicação desses 3 números. Já a média harmônica é praticamente o inverso da média aritmética dos inversos desses números._
+
     11) Faça um programa que informe o mês de acordo com o número digitado pelo usuário.Exemplo:
     Entrada = 4. Saída = Abril.
 
