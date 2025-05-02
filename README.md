@@ -261,10 +261,10 @@ _**!!!** Matematicamente a tabela do livro não está correta. As média Geomét
     15) Faça um programa que leia os coeficientes de uma equação do segundo grau. Em seguida, calcule
     e mostre as raízes dessa equação, lembrando que as raízes são calculadas como:
 
-  $x= \frac{=b +-\sqrt{∆}}{2 * a}$
+  $x= \frac{-b +- \sqrt{∆}}{2 * a}$
 
     em que ∆ = b² - 4 * a * c e ax² + bx + c = 0 representa uma equação do segundo grau. A variável
-    a tem de ser diferente de zero. Caso seja igual, imprima a mensagem "Não é equação de segundo
+    'a' tem de ser diferente de zero. Caso seja igual, imprima a mensagem "Não é equação de segundo
     grau". Do contrário, imprima:
     ◻️ Se ∆ < 0, não existe real. Imprima a mensagem "Não existe raiz".
     ◻️ Se ∆ = 0, existe uma raiz real. Imprima a raiz e a mensagem "Raiz única".
