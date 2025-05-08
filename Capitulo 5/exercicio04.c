@@ -5,6 +5,16 @@ números maiores que 0.*/
 #include<stdlib.h>
 
 int main(){
+    unsigned int i, num;
+    i = 0;
+    num = 1;
+    while(i<5){
+        if(num%3==0){
+            printf("%u ", num);
+            i++;
+        }
+        num++;
+    }
     system("pause");
     return 0;
 }

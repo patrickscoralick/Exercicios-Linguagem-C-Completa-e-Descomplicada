@@ -5,6 +5,18 @@ de 0 até N em ordem crescente.*/
 #include<stdlib.h>
 
 int main(){
+    int n, ini;
+    do{
+        printf("Digite um numero inteiro positivo: ");
+        scanf("%d", &n);
+        if (n < 0)
+            printf("ERRO: Entrada invalida!\n");
+    } while(n < 0);
+    ini = 0;
+    while(ini <= (unsigned int)n){
+        printf("%u ", ini);
+        ini++;
+    }
     system("pause");
     return 0;
 }
