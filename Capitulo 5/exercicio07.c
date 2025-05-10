@@ -5,6 +5,14 @@ o resultado na tela.*/
 #include<stdlib.h>
 
 int main(){
+    double x, y;
+    y = 0;
+    for (int i = 1; i <= 10; i++){
+        printf("Digite o valor n.%d: ", i);
+        scanf("%lf", &x);
+        y = y + x;
+    }
+    printf("\nA soma dos valores digitados: %.2f\n", y);
     system("pause");
     return 0;
 }

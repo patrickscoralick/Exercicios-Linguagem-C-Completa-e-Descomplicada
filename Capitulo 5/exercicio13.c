@@ -5,6 +5,13 @@ múltiplos de 3 ou 5.*/
 #include<stdlib.h>
 
 int main(){
+    unsigned long int somaNum = 0, i = 0;
+    while(i<1000){
+        if(i%3 == 0 || i%5 == 0)
+            somaNum += i;
+        i++;
+    }
+    printf("Resultado final: %d\n", somaNum);
     system("pause");
     return 0;
 }
