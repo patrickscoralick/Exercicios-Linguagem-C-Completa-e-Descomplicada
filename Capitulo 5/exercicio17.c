@@ -11,6 +11,26 @@ do chamado triângulo de Floyd:
 #include<stdlib.h>
 
 int main(){
+    int num;
+    unsigned long int numAux = 1;
+    do{
+        printf("Digite um valor inteiro positivo qualquer: ");
+        scanf("%d", &num);
+        if(num == 0){
+            printf("Sem linhas impressas! Valor minimo = 1 para visualizar o triangulo de Floyd.\n");
+            break;
+        }
+        if(num < 0)
+            printf("ERRO: Digite um valor positivo!\n");
+    }while(num <= 0);
+    //Estrutura do triângulo! i = linha e j = coluna.
+    for(int i = 1; i <= num; i++){
+        for(int j = 1; j <= i; j++){
+            printf("%lu ", numAux);
+            numAux++;
+        }
+        printf("\n");
+    }
     system("pause");
     return 0;
 }
