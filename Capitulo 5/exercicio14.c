@@ -3,7 +3,7 @@ o enésimo termo da sequência de Fibonacci. Essa sequência começa no termo de
 e, a partir do segundo termo, seu valor é dado pela soma dos dois termos anteriores. Alguns
 termos dessa sequência são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.*/
 
-#include<stdio.h> 
+#include<stdio.h>
 #include<stdlib.h>
 
 int main(){

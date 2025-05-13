@@ -342,8 +342,11 @@ _**!!!** Matematicamente a tabela do livro não está correta. As média Geomét
 
     19) Faça um programa que calcule e escreva o valor de S:
 
-  $S = \frac{1}{1}+\frac{3}{2}+\frac{5}{3}+\frac{7}{4}+...+\frac{99}{55}$
+  $S = \frac{1}{1}+\frac{3}{2}+\frac{5}{3}+\frac{7}{4}+...+\frac{99}{50}$
 
+  _**!!!** A expressão mostrada no livro está incorreta! Não há progressão lógica que_
+  _termine com o numerador 99 e o denominador 55. A lógica correta é 99/50 OU 109/55._
+  
     20) Faça um programa que leia um valor inteiro e positivo N, calcule e mostre o valor E, conforme
     a fórmula a seguir:
 
