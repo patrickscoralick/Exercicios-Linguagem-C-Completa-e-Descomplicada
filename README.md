@@ -352,8 +352,8 @@ _**!!!** Matematicamente a tabela do livro não está correta. As média Geomét
 
   $E=\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+...+\frac{1}{N!}$
 
-    21) Escreva um programa que leia certa quantidade de números, imprima o maior deles quantas
-    vezes o maior número for lido. AS quantidade de números a serem lidos deve ser fornecida pelo
+    21) Escreva um programa que leia certa quantidade de números, imprima o maior deles e quantas
+    vezes o maior número for lido. A quantidade de números a serem lidos deve ser fornecida pelo
     usuário.
 
 </details>
