@@ -360,11 +360,9 @@ _**!!!** Matematicamente a tabela do livro não está correta. As média Geomét
 
 <details>
   <summary><H4>Capítulo 6 - Vetores e Matrizes (Arrays)</H4></summary>
-
-  <summary><H8>Vetores</H8></summary>
-
+  
   <details>
-  <summary></summary>
+  <summary><H8>Vetores</H8></summary>
 
       1) Crie um programa que leia do teclado seis valores inteiros e em seguida mostre na tela os valores
       lidos.
@@ -425,10 +423,8 @@ _**!!!** Matematicamente a tabela do livro não está correta. As média Geomét
       vetor e imprima o vetor na tela.
   </details>
 
-  <summary><H8>Matrizes</H8></summary>
-
   <details>
-  <summary></summary>
+  <summary><H8>Matrizes</H8></summary>
 
       1) Faça um programa que leia uma matriz de tamanho 3 X 3. Imprima na tela o menor valor
       contido nessa matriz.
@@ -454,14 +450,10 @@ _**!!!** Matematicamente a tabela do livro não está correta. As média Geomét
       8) Calcular e imprimir na tela uma matriz de tamanho 10 X 10, em que seus elementos são da
       forma:
 
-  $$
-  A[i][j] =
-  \begin{cases}
-  2i + 7j - 2 & \text {se } i < j \\
-  3i^2 - 1 & \text {se } i = j \\
-  4i^3 + 5j^2 + 1 & \text {se } i > j
-  \end{cases}
-  $$
+      A[i][j] =
+          2i + 7j - 2       se i < j
+          3i² - 1           se i = j
+          4i³ + 5j² + 1     se i > j
 
       9) Faça um programa que permita ao usuário entrar com uma matriz de tamanho 3 X 3 de
       números inteiros. Em seguida, calcule um vetor contendo três posições, em que cada posição
@@ -486,14 +478,13 @@ _**!!!** Matematicamente a tabela do livro não está correta. As média Geomét
 </table>
       deverá gerar o vetor
 <table>
-<tr><td></td><td></td><td></td></tr>
   <tr>
     <td>31</td>
     <td>4</td>
     <td>32</td>
   </tr>
-  <tr><td></td><td></td><td></td></tr>
 </table>
+
       10) Leia uma matriz de tamanho 10 X 3 com as notas de 10 alunos em três provas. Em seguida,
       calcule e escreva na tela o número de alunos cuja pior nota foi na prova 1, o número de alunos
       cuja pior nota foi na prova 2 e o número de alunos cuja pior nota foi na prova 3.
